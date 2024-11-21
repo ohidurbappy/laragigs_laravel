@@ -1,9 +1,5 @@
 # LaraGigs app
 
-An app for listing Laravel gigs/jobs. This project is from my YouTube "[Laravel From Scratch 2022](https://www.youtube.com/watch?v=MYyJ4PuL4pY)" course.
-
-![Alt text](/public/images/screen.png "LaraGigs")
-
 ## Usage
 
 ### Database Setup
@@ -35,6 +31,6 @@ Upload the files to your document root, Valet folder or run
 php artisan serve
 ```
 
-## License
-
-The LaraGigs app is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+```
+sudo docker exec -it my-laravel-container /bin/bash
+```
